@@ -6,8 +6,8 @@
 
 The analysis was based on a set of 10 business questions covering revenue, delivery efficiency, customer behavior, product performance, and geographic demand. An interactive Excel dashboard backed by pivot tables was built as the final deliverable, with slicers that allow anyone to filter the entire view by Date or Occasion.
 
-**Dataset Scope:
-** 1,**000** orders | Products, Customers, Order Dates, Delivery Dates, Occasions, Cities | Period: **2023**
+**Dataset Scope**
+1,**000** orders | Products, Customers, Order Dates, Delivery Dates, Occasions, Cities | Period: **2023**
 
 ## Headline Metrics
 
